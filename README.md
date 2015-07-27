@@ -10,5 +10,23 @@
 5. Web Client (ios, andoid, web)
 6. Screens
 7. UI/UX
-8. Presentation
-9. 
+
+## Deliverables
+1. Screens
+2. Push data
+3. UI
+
+## Presentation
+
+
+## Team
+1. Elad B
+2. Elad K
+3. Amit
+
+## Tools
+1. Asana
+2. Jira
+3. Github
+
+ 
