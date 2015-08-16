@@ -13,8 +13,10 @@ $.html();
 
 var options = {
   host: 'www.crunchbase.com',
+  //host: 'www.google.co.il'
   port: 80,
   path: '/organization/datafox',
+  //path: '/?gfe_rd=cr&amp;ei=PHXQVZDOJ4He8gf-yIv4AQ',
   method: 'GET'
 };
 
